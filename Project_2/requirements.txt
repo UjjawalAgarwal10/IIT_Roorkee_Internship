@@ -1,0 +1,9 @@
+streamlit
+requests
+pyyaml
+crewai
+crewai-tools[mcp]
+mcp
+duckdb
+pandas
+tabulate
